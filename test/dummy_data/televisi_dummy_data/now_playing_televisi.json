@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/7ZBNbpkLhC2fS90j6onLS8qqfRX.jpg",
+      "first_air_date": "2004-10-25",
+      "genre_ids": [
+        10764
+      ],
+      "id": 4682,
+      "name": "Strictly Come Dancing: It Takes Two",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Strictly Come Dancing: It Takes Two",
+      "overview": "The companion show to the popular BBC One programme Strictly Come Dancing which features interviews and training footage of the couples competing in the main Saturday night show, opinions from the judges on the previous Saturday show and the training footage for the next, and interviews with celebrities who have been watching the show.",
+      "popularity": 2239.241,
+      "poster_path": "/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
+      "vote_average": 1,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 51,
+  "total_results": 1020
+}

@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/l6Li2p127btsCvnaH7XZGxz1t6Y.jpg",
+      "id": 43659,
+      "name": "American Cinema",
+      "original_language": "en",
+      "original_name": "American Cinema",
+      "overview": "13 episode series created by PBS to commemorate 100 years of movie-going.",
+      "poster_path": "/l6Li2p127btsCvnaH7XZGxz1t6Y.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        99,
+        2
+      ],
+      "popularity": 3.514,
+      "first_air_date": "1994-01-01",
+      "vote_average": 10.0,
+      "vote_count": 1,
+      "origin_country": []
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 10
+}

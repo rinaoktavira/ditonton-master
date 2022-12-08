@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+      "first_air_date": "2022-11-23",
+      "genre_ids": [
+        10765,
+        9648,
+        35
+      ],
+      "id": 119051,
+      "name": "Wednesday",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Wednesday",
+      "overview": "Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spree of the town citizens, and solve the supernatural mystery that affected her family 25 years ago — all while navigating her new relationships.",
+      "popularity": 5367.897,
+      "poster_path": "/jeGtaMwGxPmQN5xM4ClnwPQcNQz.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ]
+}

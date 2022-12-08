@@ -1,0 +1,25 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/jANJGWIKavzyREXUMCHiXFzitDO.jpg",
+      "first_air_date": "2022-10-10",
+      "genre_ids": [
+        10766,
+        18
+      ],
+      "id": 204370,
+      "name": "Travessia",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Travessia",
+      "overview": "",
+      "popularity": 1348.848,
+      "poster_path": "/jFZJEoPzt2RKSsZG8QEWptX5Xyw.jpg",
+      "vote_average": 5.1,
+      "vote_count": 8
+    }
+  ]
+}
